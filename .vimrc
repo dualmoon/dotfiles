@@ -35,7 +35,7 @@ syntax on
 
 " Configure powerline
 set laststatus=2
-set rtp+=/home/adavis/.powerline/powerline/bindings/vim
+set rtp+=$HOME/.powerline/powerline/bindings/vim
 python3 from powerline.vim import setup as powerline_setup
 python3 powerline_setup()
 python3 del powerline_setup
