@@ -8,5 +8,5 @@
 	path = .vim/bundle/Vundle.vim
 	url = https://github.com/VundleVim/Vundle.vim.git
 [submodule "/home/luna/.tpm"]
-	path = /home/luna/.tpm
+	path = .tpm
 	url = https://github.com/tmux-plugins/tpm
