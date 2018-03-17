@@ -18,6 +18,7 @@ Plugin 'vim-syntastic/syntastic'
 Plugin 'jiangmiao/auto-pairs'
 Plugin 'bdauria/angular-cli.vim'
 Plugin 'scrooloose/nerdtree'
+Plugin 'mattn/emmet-vim'
 
 call vundle#end()
 
